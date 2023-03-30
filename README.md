@@ -5,5 +5,5 @@
 * Lang: Python (random, numpy)
 
 ## Reference
-https://github.com/hsaikia/TravellingSalesmanGodot
-https://strikingloo.github.io/ant-colony-optimization-tsp
+* https://github.com/hsaikia/TravellingSalesmanGodot
+* https://strikingloo.github.io/ant-colony-optimization-tsp
