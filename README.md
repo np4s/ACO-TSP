@@ -1,8 +1,8 @@
 # ACO-TSP
 
 ## Description
-Using ACO to solve TSP
-Lang: Python (random, numpy)
+* Using ACO to solve TSP
+* Lang: Python (random, numpy)
 
 ## Reference
 https://github.com/hsaikia/TravellingSalesmanGodot
